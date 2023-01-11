@@ -12,7 +12,7 @@
 
         <?= $this->renderSection('page-title') ?>
     </head>
-    <body>
+    <body class="bg-light">
 
         <?= $this->renderSection('content') ?>
         

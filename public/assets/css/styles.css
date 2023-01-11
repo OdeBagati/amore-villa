@@ -30,7 +30,7 @@ body{
 	color: black;
 }
 
-.animate__animated.animate__fadeInLeft .animate__animated.animate__fadeInUp{
+.animate__animated.animate__fadeInLeft{
     --animate-duration: 3s;
   }
 
