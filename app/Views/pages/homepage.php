@@ -22,6 +22,14 @@
 
     <div class="container">
         <div class="text-center">
+            <h2 class="h1 m-5 animate__animated animate__fadeIn"><b>About Us</b></h2>
+        </div>
+
+        <div class="px-5 pb-5">
+            <p class="fs-5">Amore Villas is a luxurious resort in Canggu, designed for guests who appreciate the finer things in life. The villas combine global contemporary style with traditional Balinese hospitality. Each villa has a private pool and a fully-equipped kitchen. Guests can check-in at any time, as the property has a 24-hour front desk. In-room amenities include a flat-screen cable TV, DVD player, and semi-outdoor bathroom with free toiletries. The resort also offers free WiFi throughout the property. Additional services such as babysitting, airport shuttle, and car rental can be arranged for an additional fee. The resort also has a spa and offers private chef services at an additional charge.<br><br>According to independent reviews, this is a guest favorite part of Canggu, and the property has received top ratings for its location Amore Villas has been welcoming Booking.com guests since February 27, 2012, and the staff speaks multiple languages to cater to a diverse clientele.</p>
+        </div>
+
+        <div class="text-center">
             <h2 class="h1 m-5 animate__animated animate__fadeIn"><b>Featured Villas and Luxury Master Suites</b></h2>
         </div>
 
@@ -49,6 +57,34 @@
                 </div>
             </div>
         </div>
+
+        <!-- <div class="modal fade px-4" id="modalFour" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 class="modal-title fs-3" id="exampleModalLabel">Four-Bedroom Villa with Private Pool</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                    <div class="modal-body">
+                        ...
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade px-4" id="modalOne" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 class="modal-title fs-3" id="exampleModalLabel">Four-Bedroom Villa with Private Pool</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                    <div class="modal-body">
+                        ...
+                    </div>
+                </div>
+            </div>
+        </div> -->
 
     </div>
 
