@@ -39,7 +39,7 @@
                 <img class="card-img-top" load="lazy" src="<?= base_url(); ?>/assets/images/four-bedroom.jpg" alt="Four Bedroom Amore Villa with Private Pool">
                     <div class="card-body">
                         <div class="m-4">
-                            <h3 class="h4">Four-Bedroom Villa with Private Pool</h3>
+                            <h3 data-bs-toggle="modal" data-bs-target="#modalFour" class="h4">Four-Bedroom Villa with Private Pool</h3>
                             <p class="mt-3">An exclusive haven featuring four extraordinary, spacious luxury master suites with opulent en-suite bathrooms. The villa are set in tranquil gardens with private swimming pools and are overlooked by a traditional Balinese Bale</p>
                         </div>
                     </div>
@@ -50,7 +50,7 @@
                     <img class="card-img-top" load="lazy" src="<?= base_url(); ?>/assets/images/one-bedroom.jpg" alt="One-Bedroom Pool View Amore Villa">
                     <div class="card-body">
                         <div class="m-4">
-                            <h3 class="h4">One-Bedroom Pool View Villa</h3>
+                            <h3 data-bs-toggle="modal" data-bs-target="#modalOne" class="h4">One-Bedroom Pool View Villa</h3>
                             <p class="mt-3">A luxurious individual private master suite with spacious ensuite bathroom. The daily service, air conditioned suite share a large well equipped modern kitchen, dining room and living room with flat-screen TV and DVD player. Each room have access to a quiet private pool exclusive to the Villa</p>
                         </div>
                     </div>
@@ -58,33 +58,67 @@
             </div>
         </div>
 
-        <!-- <div class="modal fade px-4" id="modalFour" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal fade p-4" id="modalFour" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="modal-header">
+                    <!-- <div class="modal-header">
                         <h2 class="modal-title fs-3" id="exampleModalLabel">Four-Bedroom Villa with Private Pool</h1>
-                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                     </div> -->
                     <div class="modal-body">
-                        ...
+                        <div class="p-lg-5 p-1">
+                            <div class="row">
+                                <div class="col-2 d-lg-block d-md-block d-none">
+                                    <!-- Image for PC -->
+                                    <img class="ps-3" src="<?= base_url(); ?>/assets/images/four-bedroom.jpg" style="width:150px; height:1000px; object-fit: cover;" alt="Four Bedroom Amore Villa with Private Pool">
+                                </div>
+
+                                <div class="col-12 d-lg-none d-md-none">
+                                    <!-- Image for Mobile -->
+                                    <img src="<?= base_url(); ?>/assets/images/four-bedroom.jpg" style="width:100%; height:100px; object-fit: cover;" alt="Four Bedroom Amore Villa with Private Pool">
+                                </div>
+
+                                <div class="col-sm-9 col-12 ms-5">
+                                    <h3 class="h2 ls-2">Four-Bedroom Villa with Private Pool</h3>
+                                    <p>An exclusive haven featuring four extraordinary, spacious luxury master suites with opulent en-suite bathrooms. The villa are set in tranquil gardens with private swimming pools and are overlooked by a traditional Balinese Bale</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="modal fade px-4" id="modalOne" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal fade p-4" id="modalOne" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="modal-header">
+                    <!-- <div class="modal-header">
                         <h2 class="modal-title fs-3" id="exampleModalLabel">Four-Bedroom Villa with Private Pool</h1>
-                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div> -->
                     <div class="modal-body">
-                        ...
+                        <div class="p-4">
+                            <div class="row">
+                            <div class="col-2 d-lg-block d-md-block d-none">
+                                    <!-- Image for PC -->
+                                    <img src="<?= base_url(); ?>/assets/images/one-bedroom.jpg" style="width:150px; height:1000px; object-fit: cover;" alt="One-Bedroom Pool View Villa">
+                                </div>
+
+                                <div class="col-12 d-lg-none d-md-none">
+                                    <!-- Image for Mobile -->
+                                    <img src="<?= base_url(); ?>/assets/images/one-bedroom.jpg" style="width:100%; height:100px; object-fit: cover;" alt="One-Bedroom Pool View Villa">
+                                </div>
+
+                                <div class="col-sm-9 col-12 ms-5">
+                                    <h3 class="h2 ls-2">One-Bedroom Pool View Villa</h3>
+                                    <p>A luxurious individual private master suite with spacious ensuite bathroom. The daily service, air conditioned suite share a large well equipped modern kitchen, dining room and living room with flat-screen TV and DVD player. Each room have access to a quiet private pool exclusive to the Villa</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
 
     </div>
 

@@ -35,6 +35,10 @@ body{
     color: black;
 }
 
+.ls-2{
+    letter-spacing: 2.5px;
+}
+
 .animate__animated.animate__fadeInLeft{
     --animate-duration: 3s;
 }
