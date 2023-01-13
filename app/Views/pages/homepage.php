@@ -75,13 +75,66 @@
 
                                 <div class="col-12 d-lg-none d-md-none">
                                     <!-- Image for Mobile -->
-                                    <img src="<?= base_url(); ?>/assets/images/four-bedroom.jpg" style="width:100%; height:100px; object-fit: cover;" alt="Four Bedroom Amore Villa with Private Pool">
+                                    <img src="<?= base_url(); ?>/assets/images/four-bedroom.jpg" class="h-100" style="width:100%; object-fit: cover;" alt="Four Bedroom Amore Villa with Private Pool">
                                 </div>
 
                                 <div class="col-sm-9 col-12 ms-lg-5 ms-md-5 ms-0 mt-lg-0 mt-md-0 mt-4">
                                     <h3 class="h2 ls-2">Four-Bedroom Villa with Private Pool</h3>
                                     <p>An exclusive haven featuring four extraordinary, spacious luxury master suites with opulent ensuite bathrooms. The villa are set in tranquil gardens with private swimming pools and are overlooked by a traditional Balinese Bale</p>
-                                    <p class h2></p>
+                                    <p class="h3 ls-2 mt-4">AMENITIES</p>
+                                    <div class="row">
+                                        <div class="col-lg-4 col-md-6 col-12 amenities">
+                                            <p>King Size Bed</p>
+                                            <p>Garden view</p>
+                                            <p>Pool view</p>
+                                            <p>Kitchenette</p>
+                                            <p>Separate luggage store</p>
+                                            <p>Balcony</p>
+                                            <p>Bathroom with bathtub</p>
+                                            <p>Bathroom with shower</p>
+                                            <p>Bathroom with window</p>
+                                            <p>Breakfast area</p>
+                                            <p>Equipped kitchen</p>
+                                            <p>Seating area</p>
+                                            <p>Cable TV</p>
+                                            <p>DVD player</p>
+                                            <p>Internet access</p>
+                                        </div>
+                                        <div class="col-lg-4 col-md-6 col-12 amenities">
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                        </div>
+                                        <div class="col-lg-4 col-md-6 col-12 amenities">
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                            <p></p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -102,7 +155,7 @@
                             <div class="row">
                             <div class="col-2 d-lg-block d-md-block d-none">
                                     <!-- Image for PC -->
-                                    <img src="<?= base_url(); ?>/assets/images/one-bedroom.jpg" style="width:150px; height:1000px; object-fit: cover;" alt="One-Bedroom Pool View Villa">
+                                    <img src="<?= base_url(); ?>/assets/images/one-bedroom.jpg" class="h-100" style="width:150px; object-fit: cover;" alt="One-Bedroom Pool View Villa">
                                 </div>
 
                                 <div class="col-12 d-lg-none d-md-none">
@@ -113,6 +166,60 @@
                                 <div class="col-sm-9 col-12 ms-lg-5 ms-md-5 ms-0 mt-lg-0 mt-md-0 mt-4">
                                     <h3 class="h2 ls-2">One-Bedroom Pool View Villa</h3>
                                     <p>A luxurious individual private master suite with spacious ensuite bathroom. The daily service, air conditioned suite share a large well equipped modern kitchen, dining room and living room with flat-screen TV and DVD player. Each room have access to a quiet private pool exclusive to the Villa</p>
+                                    <p class="h3 ls-2 mt-4">AMENITIES</p>
+                                    <div class="row">
+                                        <div class="col-lg-4 col-md-6 col-6 amenities">
+                                            <p>King Size Bed</p>
+                                            <p>Garden view</p>
+                                            <p>Pool view</p>
+                                            <p>Kitchenette</p>
+                                            <p>Separate luggage store</p>
+                                            <p>Balcony</p>
+                                            <p>Bathroom with bathtub</p>
+                                            <p>Bathroom with shower</p>
+                                            <p>Bathroom with window</p>
+                                            <p>Breakfast area</p>
+                                            <p>Equipped kitchen</p>
+                                            <p>Seating area</p>
+                                            <p>Cable TV</p>
+                                            <p>DVD player</p>
+                                            <p>Internet access</p>
+                                        </div>
+                                        <div class="col-lg-4 col-md-6 col-6 amenities">
+                                            <p>King Size Bed</p>
+                                            <p>Garden view</p>
+                                            <p>Pool view</p>
+                                            <p>Kitchenette</p>
+                                            <p>Separate luggage store</p>
+                                            <p>Balcony</p>
+                                            <p>Bathroom with bathtub</p>
+                                            <p>Bathroom with shower</p>
+                                            <p>Bathroom with window</p>
+                                            <p>Breakfast area</p>
+                                            <p>Equipped kitchen</p>
+                                            <p>Seating area</p>
+                                            <p>Cable TV</p>
+                                            <p>DVD player</p>
+                                            <p>Internet access</p>
+                                        </div>
+                                        <div class="col-lg-4 col-md-6 col-6 amenities">
+                                            <p>King Size Bed</p>
+                                            <p>Garden view</p>
+                                            <p>Pool view</p>
+                                            <p>Kitchenette</p>
+                                            <p>Separate luggage store</p>
+                                            <p>Balcony</p>
+                                            <p>Bathroom with bathtub</p>
+                                            <p>Bathroom with shower</p>
+                                            <p>Bathroom with window</p>
+                                            <p>Breakfast area</p>
+                                            <p>Equipped kitchen</p>
+                                            <p>Seating area</p>
+                                            <p>Cable TV</p>
+                                            <p>DVD player</p>
+                                            <p>Internet access</p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>

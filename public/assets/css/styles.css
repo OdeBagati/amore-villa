@@ -39,6 +39,13 @@ body{
     letter-spacing: 2.5px;
 }
 
+.amenities{
+    margin: 0;
+}
+.amenities p{
+    margin: 0;
+}
+
 .animate__animated.animate__fadeInLeft{
     --animate-duration: 3s;
 }
