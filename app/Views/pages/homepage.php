@@ -78,9 +78,10 @@
                                     <img src="<?= base_url(); ?>/assets/images/four-bedroom.jpg" style="width:100%; height:100px; object-fit: cover;" alt="Four Bedroom Amore Villa with Private Pool">
                                 </div>
 
-                                <div class="col-sm-9 col-12 ms-5">
+                                <div class="col-sm-9 col-12 ms-lg-5 ms-md-5 ms-0 mt-lg-0 mt-md-0 mt-4">
                                     <h3 class="h2 ls-2">Four-Bedroom Villa with Private Pool</h3>
-                                    <p>An exclusive haven featuring four extraordinary, spacious luxury master suites with opulent en-suite bathrooms. The villa are set in tranquil gardens with private swimming pools and are overlooked by a traditional Balinese Bale</p>
+                                    <p>An exclusive haven featuring four extraordinary, spacious luxury master suites with opulent ensuite bathrooms. The villa are set in tranquil gardens with private swimming pools and are overlooked by a traditional Balinese Bale</p>
+                                    <p class h2></p>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +98,7 @@
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div> -->
                     <div class="modal-body">
-                        <div class="p-4">
+                        <div class="p-lg-5 p-1">
                             <div class="row">
                             <div class="col-2 d-lg-block d-md-block d-none">
                                     <!-- Image for PC -->
@@ -109,7 +110,7 @@
                                     <img src="<?= base_url(); ?>/assets/images/one-bedroom.jpg" style="width:100%; height:100px; object-fit: cover;" alt="One-Bedroom Pool View Villa">
                                 </div>
 
-                                <div class="col-sm-9 col-12 ms-5">
+                                <div class="col-sm-9 col-12 ms-lg-5 ms-md-5 ms-0 mt-lg-0 mt-md-0 mt-4">
                                     <h3 class="h2 ls-2">One-Bedroom Pool View Villa</h3>
                                     <p>A luxurious individual private master suite with spacious ensuite bathroom. The daily service, air conditioned suite share a large well equipped modern kitchen, dining room and living room with flat-screen TV and DVD player. Each room have access to a quiet private pool exclusive to the Villa</p>
                                 </div>
