@@ -58,6 +58,28 @@ body{
     --animate-duration: 2s;
 }
 
+.fade-in {
+	-webkit-animation: fade-in 2s cubic-bezier(0.550, 0.055, 0.675, 0.190) both;
+	animation: fade-in 2s cubic-bezier(0.550, 0.055, 0.675, 0.190) both;
+}
+
+@-webkit-keyframes fade-in{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+@keyframes fade-in{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
 @media (max-width:480px){
     .cover-home{
         background-position: 80%;

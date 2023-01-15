@@ -70,7 +70,7 @@
                             <div class="row">
                                 <div class="col-2 d-lg-block d-md-block d-none">
                                     <!-- Image for PC -->
-                                    <img src="<?= base_url(); ?>/assets/images/four-bedroom.jpg" class="h-100" style="width:150px; object-fit: cover;" alt="One-Bedroom Pool View Villa">
+                                    <img src="<?= base_url(); ?>/assets/images/four-bedroom.jpg" class="h-100 fade-in" style="width:150px; object-fit: cover;" alt="One-Bedroom Pool View Villa">
                                 </div>
 
                                 <div class="col-12 d-lg-none d-md-none">
@@ -155,7 +155,7 @@
                             <div class="row">
                                 <div class="col-2 d-lg-block d-md-block d-none">
                                     <!-- Image for PC -->
-                                    <img src="<?= base_url(); ?>/assets/images/one-bedroom.jpg" class="h-100" style="width:150px; object-fit: cover;" alt="One-Bedroom Pool View Villa">
+                                    <img src="<?= base_url(); ?>/assets/images/one-bedroom.jpg" class="h-100 fade-in" style="width:150px; object-fit: cover;" alt="One-Bedroom Pool View Villa">
                                 </div>
 
                                 <div class="col-12 d-lg-none d-md-none">
