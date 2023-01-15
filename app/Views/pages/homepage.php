@@ -101,38 +101,38 @@
                                             <p>Internet access</p>
                                         </div>
                                         <div class="col-lg-4 col-md-6 col-12 amenities">
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
+                                            <p>Wireless internet</p>
+                                            <p>TV remote control</p>
+                                            <p>Satelite TV</p>
+                                            <p>Fridge</p>
+                                            <p>Tea maker</p>
+                                            <p>Coffee machine</p>
+                                            <p>Microwave oven</p>
+                                            <p>Fan</p>
+                                            <p>Air Conditioning</p>
+                                            <p>Openable window</p>
+                                            <p>Full-length window</p>
+                                            <p>Des</p>
+                                            <p>Hair dryer</p>
+                                            <p>High ceiling</p>
+                                            <p>Vanity mirror</p>
                                         </div>
                                         <div class="col-lg-4 col-md-6 col-12 amenities">
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
-                                            <p></p>
+                                            <p>Room safe</p>
+                                            <p>Pets not allowed</p>
+                                            <p>Private bathroom</p>
+                                            <p>Barbecue</p>
+                                            <p>Mosqito net</p>
+                                            <p>Flat screen</p>
+                                            <p>Oven</p>
+                                            <p>Refrigator</p>
+                                            <p>Stove</p>
+                                            <p>Kettle</p>
+                                            <p>Gas frill</p>
+                                            <p>Freezer</p>
+                                            <p>Juice</p>
+                                            <p>Bedinen</p>
+                                            <p>Baby cot</p>
                                         </div>
                                     </div>
                                 </div>
@@ -186,38 +186,38 @@
                                             <p>Internet access</p>
                                         </div>
                                         <div class="col-lg-4 col-md-6 col-6 amenities">
-                                            <p>King Size Bed</p>
-                                            <p>Garden view</p>
-                                            <p>Pool view</p>
-                                            <p>Kitchenette</p>
-                                            <p>Separate luggage store</p>
-                                            <p>Balcony</p>
-                                            <p>Bathroom with bathtub</p>
-                                            <p>Bathroom with shower</p>
-                                            <p>Bathroom with window</p>
-                                            <p>Breakfast area</p>
-                                            <p>Equipped kitchen</p>
-                                            <p>Seating area</p>
-                                            <p>Cable TV</p>
-                                            <p>DVD player</p>
-                                            <p>Internet access</p>
+                                            <p>Wireless internet</p>
+                                            <p>TV remote control</p>
+                                            <p>Satelite TV</p>
+                                            <p>Fridge</p>
+                                            <p>Tea maker</p>
+                                            <p>Coffee machine</p>
+                                            <p>Microwave oven</p>
+                                            <p>Fan</p>
+                                            <p>Air Conditioning</p>
+                                            <p>Openable window</p>
+                                            <p>Full-length window</p>
+                                            <p>Des</p>
+                                            <p>Hair dryer</p>
+                                            <p>High ceiling</p>
+                                            <p>Vanity mirror</p>
                                         </div>
                                         <div class="col-lg-4 col-md-6 col-6 amenities">
-                                            <p>King Size Bed</p>
-                                            <p>Garden view</p>
-                                            <p>Pool view</p>
-                                            <p>Kitchenette</p>
-                                            <p>Separate luggage store</p>
-                                            <p>Balcony</p>
-                                            <p>Bathroom with bathtub</p>
-                                            <p>Bathroom with shower</p>
-                                            <p>Bathroom with window</p>
-                                            <p>Breakfast area</p>
-                                            <p>Equipped kitchen</p>
-                                            <p>Seating area</p>
-                                            <p>Cable TV</p>
-                                            <p>DVD player</p>
-                                            <p>Internet access</p>
+                                            <p>Room safe</p>
+                                            <p>Pets not allowed</p>
+                                            <p>Private bathroom</p>
+                                            <p>Barbecue</p>
+                                            <p>Mosqito net</p>
+                                            <p>Flat screen</p>
+                                            <p>Oven</p>
+                                            <p>Refrigator</p>
+                                            <p>Stove</p>
+                                            <p>Kettle</p>
+                                            <p>Gas frill</p>
+                                            <p>Freezer</p>
+                                            <p>Juice</p>
+                                            <p>Bedinen</p>
+                                            <p>Baby cot</p>
                                         </div>
                                     </div>
                                 </div>
