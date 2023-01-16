@@ -22,7 +22,7 @@
 
     <div class="container">
         <div class="text-center">
-            <h2 class="h1 m-5 animate__animated animate__fadeIn"><b>About Us</b></h2>
+            <h2 class="h1 m-5 animate__animated"><b>About Us</b></h2>
         </div>
 
         <div class="px-5 pb-5">
@@ -30,12 +30,12 @@
         </div>
 
         <div class="text-center">
-            <h2 class="h1 m-5 animate__animated animate__fadeIn"><b>Featured Villas and Luxury Master Suites</b></h2>
+            <h2 class="h1 m-5 animate__animated animate__delay-2s"><b>Featured Villas and Luxury Master Suites</b></h2>
         </div>
 
-        <div class="row d-flex aligns-items-center justify-content-center">
+        <div class="row d-flex aligns-items-center justify-content-center animate__animated animate__delay-3s">
             <div class="col-lg-5 col-sm-12 mx-3 mb-4 px-4">
-                <div class="card shadow h-100 animate__animated animate__fadeIn">
+                <div class="card shadow h-100">
                 <img class="card-img-top" load="lazy" src="<?= base_url(); ?>/assets/images/four-bedroom.jpg" alt="Four Bedroom Amore Villa with Private Pool">
                     <div class="card-body">
                         <div class="m-4">
@@ -46,7 +46,7 @@
                 </div>
             </div>
             <div class="col-lg-5 col-sm-12 mx-3 mb-4 px-4">
-                <div class="card shadow h-100 animate__animated animate__fadeIn">
+                <div class="card shadow h-100">
                     <img class="card-img-top" load="lazy" src="<?= base_url(); ?>/assets/images/one-bedroom.jpg" alt="One-Bedroom Pool View Amore Villa">
                     <div class="card-body">
                         <div class="m-4">
