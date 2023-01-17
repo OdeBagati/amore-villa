@@ -34,31 +34,22 @@
         </div>
 
         <div class="row d-flex aligns-items-center justify-content-center animate__animated animate__delay-3s">
-            <div class="col-lg-5 col-sm-12 mx-3 mb-4 px-4">
-                <div class="card shadow h-100">
-                <img class="card-img-top" load="lazy" src="<?= base_url(); ?>/assets/images/four-bedroom.jpg" alt="Four Bedroom Amore Villa with Private Pool">
-                    <div class="card-body">
-                        <div class="m-4">
-                            <h3 data-bs-toggle="modal" data-bs-target="#modalFour" class="h4">Four-Bedroom Villa with Private Pool</h3>
-                            <p class="mt-3">An exclusive haven featuring four extraordinary, spacious luxury master suites with opulent en-suite bathrooms. The villa are set in tranquil gardens with private swimming pools and are overlooked by a traditional Balinese Bale</p>
+            <?php foreach($dataKamar as $kamar) : ?>
+                <div class="col-lg-5 col-sm-12 mx-3 mb-4 px-4">
+                    <div class="card shadow h-100">
+                        <img class="card-img-top" load="lazy" src="<?= base_url(); ?>/assets/images/<?= $kamar->foto_kamar; ?>" alt="<?= $kamar->alt_foto_kamar; ?>">
+                        <div class="card-body">
+                            <div class="m-4">
+                                <h3 data-bs-toggle="modal" data-bs-target="#modal<?= strtok($kamar->nama_kamar," "); ?>" class="h4"><?= $kamar->nama_kamar; ?></h3>
+                                <p class="mt-3"><?= $kamar->deskripsi; ?></p>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-5 col-sm-12 mx-3 mb-4 px-4">
-                <div class="card shadow h-100">
-                    <img class="card-img-top" load="lazy" src="<?= base_url(); ?>/assets/images/one-bedroom.jpg" alt="One-Bedroom Pool View Amore Villa">
-                    <div class="card-body">
-                        <div class="m-4">
-                            <h3 data-bs-toggle="modal" data-bs-target="#modalOne" class="h4">One-Bedroom Pool View Villa</h3>
-                            <p class="mt-3">A luxurious individual private master suite with spacious ensuite bathroom. The daily service, air conditioned suite share a large well equipped modern kitchen, dining room and living room with flat-screen TV and DVD player. Each room have access to a quiet private pool exclusive to the Villa</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php endforeach;?>
         </div>
 
-        <div class="modal fade p-4" id="modalFour" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal fade p-4" id="modalFour-Bedroom" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <!-- <div class="modal-header">
@@ -143,7 +134,7 @@
             </div>
         </div>
 
-        <div class="modal fade p-4" id="modalOne" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal fade p-4" id="modalOne-Bedroom" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <!-- <div class="modal-header">
