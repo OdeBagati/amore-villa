@@ -10,6 +10,7 @@ use CodeIgniter\HTTP\ResponseInterface;
 use Psr\Log\LoggerInterface;
 
 use App\Models\KamarModel;
+use App\Models\BlogModel;
 
 /**
  * Class BaseController
@@ -58,6 +59,7 @@ abstract class BaseController extends Controller
         // E.g.: $this->session = \Config\Services::session();
 
         $this->objKamar     = new KamarModel;
+        $this->objBlog      = new BlogModel;
 
         $this->render       = \Config\Services::renderer();
         $this->validation   = \Config\Services::validation();

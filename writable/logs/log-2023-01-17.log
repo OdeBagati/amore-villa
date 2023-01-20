@@ -105,3 +105,13 @@ INFO - 2023-01-17 12:15:56 --> Session: Class initialized using 'CodeIgniter\Ses
 INFO - 2023-01-17 12:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2023-01-17 12:18:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
 INFO - 2023-01-17 12:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-01-17 12:32:53 --> Undefined array key "filters"
+in APPPATH\Config\Routes.php on line 43.
+ 1 APPPATH\Config\Routes.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "filters"', 'APPPATH\\Config\\Routes.php', 43)
+ 2 SYSTEMPATH\Router\RouteCollection.php(266): require('APPPATH\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('FCPATH\\index.php')
+INFO - 2023-01-17 12:33:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

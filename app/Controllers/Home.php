@@ -13,4 +13,9 @@ class Home extends BaseController
 
         return view('pages/homepage',$data);
     }
+
+    function admin()
+    {
+        return view('adminpages/adm_home');
+    }
 }
